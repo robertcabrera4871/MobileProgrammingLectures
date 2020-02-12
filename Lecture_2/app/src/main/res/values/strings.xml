@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lecture_2</string>
+    <string name="my_string">STRING RESOURCE EXAMPLE</string>
+    <string name="click_me">Click Me!</string>
+    <string name="buttonOnClick">Ive been shot!</string>
+    <string name="timesShot"> Times!!</string>
+</resources>
